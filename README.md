@@ -1,4 +1,4 @@
-# simple_note_app
+# smart_note_app
 
 A new Flutter project.
 
